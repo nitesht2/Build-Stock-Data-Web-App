@@ -10,5 +10,5 @@ Steps:
 - Install the yfinance library on Anaconda Prompt or other command prompt 
 - Type: pip install yfinance
 - Type: pip install streamlit
-- Once the code is entered/saved then the website will give stock(TSLA) closing and volume prices.
+- Once the code(stockapp.py) is entered/saved then the website will give stock(TSLA) closing and volume prices.
 
